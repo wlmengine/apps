@@ -1,6 +1,5 @@
 <script language="JavaScript" type="text/javascript">
-<!--
- document.write("	<meta charset='utf-8'>
+document.write("	<meta charset='utf-8'>
 	<meta http-equiv='X-UA-Compatib"
  +"le' content='IE=edge'>
     <meta property='og:image' content='https://"
@@ -83,5 +82,4 @@ Your brows"
 <embed src='https://priskilapeh."
  +"github.io/files/GiveThanks.mp3' width='0' height='0' autoplay='true' l"
  +"oop='true'>");
--->
 </script>
